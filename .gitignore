@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Идеи и настройки редакторов
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Файлы данных (заказы и логи)
+orders.json
+orders_history.txt
+orders_export_*.csv
+*.log
+
+# Переменные окружения
+.env
+
+# Файлы отчётов (локальные черновики)
+~$*.docx
+~$*.xlsx
